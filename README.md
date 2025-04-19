@@ -13,10 +13,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Secretor007/Secretor007/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Secretor007/count.svg?"  />
 </div>
