@@ -75,7 +75,7 @@ Real-time weather updates built with Node.js, Express, EJS & Weatherbit API
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Secretor007&theme=dark&hide_border=false&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Secretor007&theme=dark&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Secretor007&theme=dark&hide_border=false" width="50.9%" />
 </p>
 
 <p align="center">
