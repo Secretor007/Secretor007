@@ -10,6 +10,10 @@
 ---
 
 ## 💫 About Me:
+<p align="center">
+<!--   <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" height="150" /> -->
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3l4bWtlNGx3bWUxNXd3a2puNjk0N2w4dGZxa2ZpdGg3N3p2Z2p0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rlsHtd2YC8k0g/giphy.gif" height="150" />
+</p>
 - 💻 Passionate about building efficient and user-friendly web & software applications  
 - ⚙️ Love transforming ideas into real-world projects  
 - 🌱 Currently diving into:
@@ -19,8 +23,11 @@
 ---
 
 ## 🔥 Featured Projects:
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5hNzh1MXg0ejZwNGg0eHVvMDlkMDVtZXcyMGM0Z3Yyc3N1ZjAweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" height="180" />
+</p>
 
-### 🎵 YTubeX – YouTube Music & Video Downloader  
+### 🎵 YTubeX – YouTube Music & Video Downloader<br>  
 A lightweight desktop app to download high-quality music and videos from YouTube
 
 ### 🎬 MovieZone – Movie Search & Review Platform  
@@ -35,6 +42,10 @@ Real-time weather updates built with Node.js, Express, EJS & Weatherbit API
 ---
 
 ## 💻 Tech Stack:
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="150" />
+</p>
+
 
 ### Languages & Frameworks:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -72,7 +83,9 @@ Real-time weather updates built with Node.js, Express, EJS & Weatherbit API
 ---
 
 ## 📈 GitHub Stats:
-
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="150" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Secretor007&theme=dark&hide_border=false&show_icons=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Secretor007&theme=dark&hide_border=false" width="50.9%" />
@@ -85,7 +98,9 @@ Real-time weather updates built with Node.js, Express, EJS & Weatherbit API
 ---
 
 ## 🏆 GitHub Trophies & Activity:
-
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VydTF3YXJiaW01YmVydTc1Y2Nxc2pjNG5iOHU3b3JuZTd6c2g1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qTeCS8pvoELD6mMsme/giphy.gif" height="150" />
+</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Secretor007&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true" />
   <br><br>
